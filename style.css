@@ -1,0 +1,16 @@
+.itm-mode::before{
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: black;
+    opacity: 0.5;
+}
+.itm-mode .cap-mode{
+    bottom: 200px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
